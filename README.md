@@ -14,7 +14,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-![alt text](https://img.shields.io/badge/Made%20by-Tobby%20Echonga-orange)
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+```
+![alt text](https://img.shields.io/badge/Made%20by-Tobby%20Echonga-orange)
