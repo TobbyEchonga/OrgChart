@@ -4,6 +4,22 @@ Organization chart that reads data directly from a SQL Server.
 # Sample
 ![OrgChart](https://user-images.githubusercontent.com/30405173/126052389-7352ca5d-2166-4a82-b69d-c14f9df9c981.png)
 
+## Installing 
+* Clone the repository
+```
+$ git clone https://github.com/TobbyEchonga/OrgChart.git
+```
+
+* Upload the file
+```
+Unzip to the folder to where visual studio projects are
+```
+
+* Edit directory
+```
+Edit the appsetting directory for the database inorder to location of yours
+```
+
 ## Prerequirements
 
 * Visual Studio 2017
@@ -15,7 +31,15 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+## Language and framework
+Javascript, C# and CSS were used
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Acknowledgments
+* [Balkan Applications](https://balkan.app/OrgChartJS-Demos/) The web framework used for the project
+* StackOverflow
+* Github Pilot
 
 ![alt text](https://img.shields.io/badge/Made%20by-Tobby%20Echonga-orange)
