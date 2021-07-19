@@ -34,8 +34,6 @@ Please make sure to update tests as appropriate.
 ## Language and framework
 Javascript, C# and CSS were used
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Acknowledgments
 * [Balkan Applications](https://balkan.app/OrgChartJS-Demos/) Provided the framework used to display the chart
