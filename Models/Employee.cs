@@ -48,6 +48,7 @@ namespace OrgChart.Models
             }
         }
 
+        //This enables a user to conevert whatever string you have to an array which is the only way the organ chart can read it  
         [EditorBrowsable(EditorBrowsableState.Never)]
         public string InternalTags { get; set; }
     }
