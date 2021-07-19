@@ -38,8 +38,7 @@ Javascript, C# and CSS were used
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Acknowledgments
-* [Balkan Applications](https://balkan.app/OrgChartJS-Demos/) The web framework used for the project
+* [Balkan Applications](https://balkan.app/OrgChartJS-Demos/) Provided the framework used to display the chart
 * StackOverflow
-* Github Pilot
 
 ![alt text](https://img.shields.io/badge/Made%20by-Tobby%20Echonga-orange)
