@@ -17,7 +17,7 @@ Unzip to the folder to where visual studio projects are
 
 * Edit directory
 ```
-Edit the appsetting directory for the database inorder to location of yours
+Modify the directory for the database to link to whatever yours is
 ```
 
 ## Prerequirements
